@@ -1,0 +1,3 @@
+
+[08:28:48] QUESTION: Tell me about a time you improved a process.
+[08:28:48] ANSWER: At BuildStrong Academy, I identified a significant opportunity to improve our client management process. The lack of visibility into our sales pipeline was causing inefficiencies and missed opportunities. To address this, I led the implementation of a CRM system. I began with a cross-departmental needs assessment to ensure the tool would serve everyone's requirements. We then phased the implementation to minimize disruption, and I oversaw comprehensive training to ensure the team could use the system effectively. As a result, we improved pipeline visibility by 70%, enhancing our ability to manage relationships and pursue new opportunities.
