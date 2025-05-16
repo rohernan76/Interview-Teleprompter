@@ -1,5 +1,47 @@
 # 🎤 Interview Teleprompter
 
+⚡ *Real-time AI-powered response assistant for live interviews using MacWhisper transcription + OpenAI-generated prompts displayed in a teleprompter interface.*
+
+---
+
+## 🧠 How It Works
+
+1. MacWhisper transcribes live audio and appends each new question to `log_.txt`
+2. Script detects the new question and uses OpenAI API (with reference context) to generate a relevant answer
+3. Answer is displayed in a floating teleprompter-style window (no audio output)
+
+---
+
+## 📅 Roadmap
+
+- [x] Real-time question detection
+- [x] Teleprompter UI with Tkinter
+- [x] Codex CLI logger and usage tracker
+- [ ] GitHub Pages demo or docs deployment
+- [ ] Sync-friendly setup for iMac and Mac mini
+- [ ] `.app` launcher + icon
+
+---
+
+## 📁 Folder Structure
+
+```
+Interview-Teleprompter/
+├── EXECUTE FROM HERE/
+│   └── run_teleprompter.command
+├── interview_teleprompter.py
+├── codex_usage.md
+├── .env               # Not committed
+├── README.md
+├── requirements.txt
+```
+
+---
+
+🔗 Part of: [ResumeRocket](https://github.com/rohernan76/resume-generator)
+
+# 🎤 Interview Teleprompter
+
 **AI-powered desktop assistant that listens to interview questions, generates real-time responses using GPT-4, and displays them in a teleprompter-style overlay.**
 
 ---
