@@ -1,0 +1,307 @@
+# Tell Me About Yourself - Core Narrative
+I'm a strategic operations leader who thrives at the intersection of technical problem-solving and authentic relationship building. My career has been dedicated to creating systems that free up mission-driven organizations to focus on their impact rather than administrative burdens. Most recently at Strings Music Festival, I directed operations for a major regional arts organization where I built custom automation tools that saved thousands in staff time while scaling our event capacity by 20%.
+
+# Tell Me About Yourself - Career Progression
+Most recently at Strings Music Festival, I directed operations for a major regional arts organization. Before that, I led operations for BuildStrong Academy, where I implemented unified data systems that increased participant engagement by 50%. Earlier in my career, I managed operations for an innovation lab in Northeast Park Hill, a historically Black neighborhood in Denver. This experience deeply shaped my approach to leadership—I learned that building community trust requires consistent presence, deep listening, and making space for others' leadership.
+
+# Tell Me About Yourself - HadaNõu Alignment
+What draws me to The HadaNõu Collective is your precision in understanding the quiet burdens that weigh down nonprofits, especially those led by people of color. As someone who has experienced the unspoken code-switching and constant pressure to prove legitimacy that many leaders of color face, I'm passionate about creating operational systems that are both technically sound and culturally responsive.
+
+# Personal Values
+1. Integrity & Respect: I place strong emphasis on treating people with dignity—whether it's a department head, a vendor, or a direct report. I believe respect fosters trust and operational excellence.
+2. Equity & Inclusion: I'm intentional about making space for underrepresented voices, including my own as a first-generation, brown, Latino man.
+3. Community-Mindedness: I care deeply about how my work connects to the broader community.
+4. Authenticity: I value storytelling, personal connection, and clarity over corporate jargon or fluff.
+
+# Professional Values
+1. Mission-Driven Leadership: I'm motivated by purpose, pursuing roles aligned with values like access, sustainability, education, and community building.
+2. Operational Excellence with a Human Lens: I'm committed to people-first operations, emphasizing culture-building and team development.
+3. Cross-Sector Versatility: I bring public, private, and nonprofit experiences into a cohesive narrative.
+4. Strategic Communication: I care deeply about tone, structure, and clarity in professional writing.
+
+# AI Consulting - AIBridgeGap
+AIBridgeGap.com is a consultancy I launched to make AI-powered automation practical, ethical, and usable for small nonprofits, education organizations, and solo operators. I specialize in building lightweight, real-world tools using Python, OpenAI, and Google Apps Script — from live interview assistants to resume engines to Google Workspace automations. I emphasize human-centered design, transparent logic, and training resources so clients can own and evolve the tools themselves.
+
+# Resume Summary
+Results-driven professional with nearly two decades of experience leading operational strategy, cross-functional problem-solving, and process optimization across nonprofits, startups, and public institutions. Known for translating complex challenges into clear systems, implementing automation that drives efficiency, and cultivating deep, trust-based relationships with leaders—particularly within BIPOC-led organizations.
+
+# Areas of Expertise
+• Program Operations & Governance
+• Fiscal Sponsorship & Compliance
+• Bureaucratic Navigation & Problem-Solving
+• Client Relationship Management
+• Financial Tracking & Reporting
+• Strategic Process Improvement
+• Workflow Automation & AI Integration
+• Cross-Team Project Leadership
+• Equity-Centered Support Systems
+
+# Experience - AIBridgeGap
+Founded a consulting firm to build practical AI tools and systems that streamline nonprofit operations and empower small teams to navigate emerging technologies with confidence.
+• Develop real-world automation tools: Built AI-powered assistants including a teleprompter, resume builder, and project tracker to demonstrate how automation can reduce administrative burdens for small teams.
+• Launched and branded two digital platforms: Create websites and service messaging for AIBridgeGap and a related portfolio, optimizing user engagement and clarifying value propositions for nonprofit clients.
+
+# Experience - CSPC
+Provided temporary leadership and project continuity during a key staff absence, ensuring mission-critical work remained on schedule for a family advocacy nonprofit.
+• Maintained operational momentum: Oversaw daily project tracking and communications during maternity leave, ensuring all deliverables met grant timelines.
+• Managed internal and external reporting: Compiled detailed documentation for board and funder transparency, contributing to sustained credibility with stakeholders.
+• Designed seamless handoff systems: Created a transition plan and documentation package that enabled the returning staffer to quickly regain full project oversight.
+
+# Experience - Strings Music Festival
+Directed operations and logistics for a major regional arts organization, improving efficiency, modernizing workflows, and managing large-scale capital projects.
+• Automated finance workflows: Built a custom reconciliation app using AI and Google Apps Script, saving $6,200/year in staff time and simplifying monthly credit card management across six departments.
+• Scaled organizational capacity: Increased event capacity by 20% and cut costs by 15% through strategic resource allocation and operational process standardization.
+• Led multimillion-dollar infrastructure upgrade: Managed pavilion remodel and AV overhaul, delivering on time and exceeding expectations for stakeholder engagement and quality.
+
+# Experience - BuildStrong Academy
+Led operational expansion for a workforce development nonprofit, building systems, partnerships, and data infrastructure to scale impact across Colorado and beyond.
+• Boosted enrollment and program reach: Increased annual participant engagement by 50% through improved training models and strategic education partnerships.
+• Centralized data operations: Implemented a unified CRM system with automated dashboards, improving team-wide decision-making and executive oversight.
+• Develop real-world automation tools: Build AI-powered assistants including a teleprompter, resume builder, and medication tracker to demonstrate how automation can reduce administrative burdens for small teams.
+
+# Experience - Innovation Lab
+Launched and managed operations for a community-focused economic development initiative in a historically underserved Denver neighborhood in Northeast Park Hill.
+• Built foundational operations from scratch: Handled facilities, staffing, and systems development to support a new model of community-based entrepreneurship.
+• Expanded outreach and engagement: Led 20+ strategic initiatives to connect with local residents and partner orgs, training 1,000+ individuals annually.
+• Reduced overhead through efficiency: Streamlined service delivery systems to reduce operational costs by 35%, increasing accessibility and impact.
+
+# Education & Training
+Bachelor of Science in Business Administration (BSBA) | University of San Diego | San Diego, CA | 2000
+Full Stack Web Development | CodeCraft School of Technology | Boulder, CO | 2016
+Google Project Management Certificate | Google | 2021
+Project Management Professional (PMP) Certificate [in progress] | PMI | 2025
+
+# Technical Skills
+Zoho One (CRM, Projects, Analytics) • QuickBooks Online • Google Workspace & AI Scripts • Asana • Microsoft 365 (Excel, Outlook, SharePoint) • Slack • Salesforce • Data Dashboards (Zoho Analytics, Google Data Studio) • Python • WordPress • Process Automation (Zapier, Apps Script) • Navigating State/Gov Portals
+
+# LinkedIn Summary
+I'm a thoughtful, values-driven leader who blends operational strategy with cultural empathy—committed to building systems that serve both people and purpose. As an operations leader with nearly two decades of experience across nonprofits, startups, and public institutions, I specialize in translating complex challenges into clear systems that empower mission-driven organizations. I'm known for my dual expertise in technical problem-solving and authentic relationship building, particularly within BIPOC-led organizations.
+
+# Application Q&A - HNC Approach
+What drew me most to HNC was how sharply it understands the quiet burdens that weigh down many nonprofits—especially those led by people of color. Too often, I've seen incredible leaders get buried in the daily grind of figuring out payroll systems, nonprofit registrations, or how to track impact in a way funders understand. These aren't side problems; they're mission blockers. What makes HNC stand out is the precision and humility in its approach: not offering a one-size-fits-all fix, but listening, customizing, and being hands-on with leaders to build systems that fit them.
+
+# Application Q&A - Success in Role
+I've spent nearly two decades in nonprofit operations, and what I bring isn't just technical know-how—it's the instinct to innovate when it actually makes people's lives easier. At Strings Music Festival, I built a custom automation solution that reduced reconciliation time by two hours per head per month—roughly $6,200/year in saved labor. I didn't build it for fun; I built it because staff were drowning in inefficiency. That's the lens I bring to ops: find the friction, solve it, and return time to the people doing mission-critical work.
+
+# Application Q&A - Supporting Leaders of Color
+I've spent much of my career supporting leaders of color—and being one myself, I understand the unspoken code-switching, the resource gaps, and the constant pressure to prove legitimacy that many of us carry. When I led operations for the Innovation Lab in Northeast Park Hill, I was a Latino nonprofit leader building community trust in a space where nonprofits had come and gone. It meant showing up consistently, listening more than talking, and making space for others' leadership even when it challenged my own assumptions.
+
+# Application Q&A - Superpower
+My superpower is purposeful innovation. I don't build flashy systems for the sake of looking modern—I design practical tools that actually make people's work easier. At Strings Music Festival, I created an internal app that replaced two sprawling Google Sheets and a dozen headaches. I've transitioned entire orgs from paper-heavy workflows into clean, cloud-based ecosystems—like when I implemented Zoho One at BuildStrong to unify CRM, project management, and form systems.
+
+# Application Q&A - Workplace Preferences
+I thrive in workplaces that are collaborative, mission-driven, and grounded in mutual care. As a leader, I value team dynamics immensely—not just how work gets done, but how people show up for each other. That's why I try to hold one-on-ones in person when I can. It gives me the chance to read between the lines, to ask things like: "Are you okay? Do you need help? Is your work still lighting you up?" On the flip side, I struggle in workplaces that prioritize systems over people, or where culture is treated as a side project instead of the foundation.
+
+# Job Description - HadaNõu Collective
+The HadaNõu Collective (HNC) is a nonprofit that helps other nonprofits become more effective at what they do, so they can grow their impact in the communities they serve. This Program Manager: Leader Support & Operations role is on HNC's Infrastructure and Leader Support Program (ILS) team, which provides: 1) Shared back-end services for nonprofits (payroll, benefits, accounting, financial governance) 2) Fiscal sponsorship (allowing organizations to access philanthropic funding)
+
+# Job Requirements - Key Skills
+The position requires someone who excels at both:
+1) Getting into the weeds of complex, technical problem-solving
+2) Building strong, authentic relationships with leaders
+
+Key responsibilities include:
+- Working alongside leaders to solve operational issues
+- Managing incoming support requests and ensuring timely resolution
+- Tracking and transferring funding to fiscally sponsored organizations
+- Ensuring proper transaction coding and financial management
+- Gathering and reporting on program data
+
+# Job Requirements - Ideal Candidate
+The ideal candidate has:
+- High fluency in navigating technical tools and systems
+- Satisfaction in working 1:1 with leaders to provide great customer experience
+- Ability to find meaning in navigating bureaucratic intricacies
+- Enjoyment in managing core processes and day-to-day financial management
+
+HNC primarily serves executive leaders of color who face unique challenges and barriers in bringing their visions to life. The organization values equity, community-centered leadership, trauma-informed practices, and inclusive innovation.
+
+# Technical Problem-Solving Alignment
+Job Requirements:
+- High degree of fluency in navigating technical tools and systems
+- Ability to get into the weeds of complex, technical problem-solving
+- Managing detailed processes and working through complex problems
+- Building new tools and systems improvements to drive internal efficiency
+
+My Experience:
+- At Strings Music Festival: Built custom reconciliation app using AI and Google Apps Script, saving $6,200/year in staff time
+- At BuildStrong Academy: Implemented unified CRM system with automated dashboards
+- At AIBridgeGap: Developed AI-powered assistants including teleprompter and project tracker
+
+# Relationship Building Alignment
+Job Requirements:
+- Building strong and authentic relationships with leaders
+- Working 1:1 with leaders to provide great customer experience
+- Supporting leaders to navigate complexity, especially leaders of color
+- Providing efficient and effective support to quickly solve operational issues
+
+My Experience:
+- Experience supporting leaders of color at Innovation Lab in Northeast Park Hill
+- At CSPC: Provided temporary leadership during key staff absence
+- At BuildStrong Academy: Increased annual participant engagement by 50% through improved training models and strategic partnerships
+
+# Operational Excellence Alignment
+Job Requirements:
+- Managing core processes and day-to-day financial management
+- Tracking and transferring funding, ensuring proper transaction coding
+- Managing administrative filings and follow-up with organizations
+- Ensuring program governance with highest degree of rigor
+
+My Experience:
+- At Strings Music Festival: Scaled organizational capacity by 20% and cut costs by 15% through strategic resource allocation and process standardization
+- At BuildStrong Academy: Led operational expansion, building systems and data infrastructure
+- At Innovation Lab: Streamlined service delivery systems to reduce operational costs by 35%
+
+# Bureaucratic Navigation Alignment
+Job Requirements:
+- Finding significance in navigating bureaucratic intricacies
+- Becoming the team's expert in navigating bureaucracies and systems
+- Helping leaders navigate confusing requirements with state agencies
+
+My Experience:
+- Experience navigating State/Gov Portals (listed as expertise)
+- At BuildStrong Academy: Built systems and partnerships to scale impact
+- At Innovation Lab: Built foundational operations from scratch
+- Self-described approach: "find the friction, solve it, and return time to the people doing mission-critical work"
+
+# Supporting Leaders of Color Alignment
+Job Requirement:
+The majority of leaders HNC works with are executive leaders of color who often experience unique challenges and barriers. The role requires someone who can support these leaders in navigating complexity while creating a great customer experience.
+
+My Experience:
+As a leader of color myself, I bring both personal and professional experience:
+- At Innovation Lab in Northeast Park Hill, I built community trust in a historically Black neighborhood by showing up consistently and making space for others' leadership
+- I understand "the unspoken code-switching, the resource gaps, and the constant pressure to prove legitimacy" that many leaders of color face
+
+# HNC Core Values
+The HadaNõu Collective operates with a distinct set of values:
+
+Equity-Centered Approach: HNC recognizes the unique challenges faced by leaders of color and centers equity in all aspects of their work.
+
+Community-Centered Leadership: HNC values leadership that emerges from and remains accountable to communities.
+
+Trauma-Informed Practices: HNC acknowledges the impact of historical and ongoing trauma on communities and leaders.
+
+Inclusive Innovation: HNC balances technical excellence with inclusive practices, ensuring that innovations are accessible and responsive to diverse needs.
+
+# Communication Style Alignment
+1. Lead with Listening
+   - Begin interactions by creating space for leaders to share their experiences and challenges
+   - Ask open-ended questions that demonstrate genuine curiosity and respect
+   - Validate experiences of systemic barriers without requiring leaders to educate or justify
+
+2. Balance Directness with Empathy
+   - Communicate clearly and directly while maintaining warmth and understanding
+   - Acknowledge the emotional dimensions of operational challenges
+   - Use language that centers the leader's agency and expertise
+
+# Problem-Solving Approach Alignment
+1. Center Equity in Solutions
+   - Evaluate potential solutions for their impact on different communities
+   - Consider who might be excluded or disadvantaged by particular approaches
+   - Design systems that accommodate diverse needs and contexts
+
+2. Balance Structure with Flexibility
+   - Provide clear frameworks while allowing for customization
+   - Recognize when rigid processes create unnecessary barriers
+   - Build systems that can adapt to different organizational contexts
+
+# Leadership Style Alignment
+1. Embody Collaborative Leadership
+   - Share decision-making power whenever possible
+   - Recognize and leverage the expertise of others
+   - Create opportunities for collective problem-solving
+
+2. Practice Trauma-Informed Leadership
+   - Recognize signs of stress and trauma in interactions
+   - Create psychologically safe environments for collaboration
+   - Offer choices and transparency in processes
+
+# My Unique Value Proposition
+I bring a rare combination of technical expertise and people-centered leadership that directly aligns with HNC's needs:
+
+1. Technical Problem-Solver + Relationship Builder: Throughout my career, I've balanced technical excellence with authentic relationship building.
+
+2. Operational Excellence with Equity at Center: My approach to operations is grounded in equity and cultural responsiveness.
+
+3. Bureaucratic Navigator + Practical Innovator: I find meaning in navigating complex systems so others don't have to.
+
+4. Trauma-Informed Leadership Perspective: As a leader of color myself, I understand the unspoken code-switching, resource gaps, and constant pressure to prove legitimacy that many leaders experience.
+
+# PAR - BuildStrong Academy - Training Systems
+Problem: As Director of Operations at BuildStrong Academy, I faced the challenge of scaling our workforce development program while maintaining quality and accessibility. Our training systems were largely paper-based, instructor-dependent, and difficult to replicate across locations.
+
+Action: I led a comprehensive redesign of our operational infrastructure, implementing a unified CRM system with automated dashboards, collaborating with instructors to develop standardized curriculum modules, and leading the integration of XR/VR tools into our training program.
+
+Result: Increased annual participant engagement by 50%, boosted program completion rates from 68% to 85%, improved job placement rates by 35%, and significantly increased participation from underrepresented groups in construction.
+
+# PAR - BuildStrong Academy - Data Management
+Problem: BuildStrong Academy lacked robust data infrastructure to inform decision-making and demonstrate program impact. Leadership had limited visibility into program performance, funders received inconsistent reporting, and we couldn't effectively identify improvement opportunities.
+
+Action: I spearheaded the development of a comprehensive data management strategy, implementing a unified CRM system with automated dashboards, designing custom reporting templates, and establishing regular data review sessions with leadership.
+
+Result: Executive leadership gained clear visibility into program performance, secured a 40% increase in grant funding, identified and addressed specific program elements creating barriers, and reduced administrative time spent on reporting by 65%.
+
+# PAR - BuildStrong Academy - Fiscal Sponsorship
+Problem: BuildStrong Academy was operating under fiscal sponsorship with the Colorado Nonprofit Development Center (CNDC), which provided essential administrative support but also created limitations for our growth and independence.
+
+Action: I led the complex transition process, developing a comprehensive transition plan, establishing new financial systems and controls, managing legal and administrative requirements for 501(c)(3) status, and maintaining transparent communication with stakeholders.
+
+Result: Achieved independent 501(c)(3) status on schedule while maintaining all program operations, retained 100% of existing funding relationships, established robust financial management systems, and positioned the organization for accelerated growth.
+
+# PAR - Strings Music Festival - Event Operations
+Problem: When I joined Strings Music Festival as Director of Operations, the organization was struggling with inefficient event management processes. We managed 150+ annual events across multiple venues using a combination of spreadsheets, paper forms, and email chains.
+
+Action: I led a comprehensive overhaul of our event operations, designing and implementing a centralized event management system, introducing workflow automation using Google Apps Script, and creating standardized processes for event setup, execution, and breakdown.
+
+Result: Increased event capacity by 20% while simultaneously reducing operational costs by 15%, eliminated scheduling conflicts entirely, saved staff approximately 15 hours per week in administrative time, and improved cross-departmental collaboration.
+
+# PAR - Strings Music Festival - Financial Automation
+Problem: Strings Music Festival's financial reconciliation process was labor-intensive and error-prone. Six department heads spent approximately two hours each month manually reconciling credit card statements, often with inconsistent coding and documentation.
+
+Action: I built a custom reconciliation app using AI and Google Apps Script that automated the matching of receipts to transactions, designed an intuitive interface that simplified expense categorization, and implemented standardized coding protocols.
+
+Result: Reduced reconciliation time by two hours per department head per month, saving approximately $6,200 annually in labor costs, improved accuracy of financial coding by 90%, and accelerated monthly financial closing process by 3-5 business days.
+
+# PAR - Strings Music Festival - Logistics Management
+Problem: Strings Music Festival faced significant logistical challenges managing events across multiple venues with different technical requirements, staffing needs, and audience capacities.
+
+Action: I developed a comprehensive logistics management system, creating detailed venue profiles with standardized setup configurations, implementing a digital asset tracking system, and developing tiered staffing models based on event type, size, and technical complexity.
+
+Result: Reduced average setup time by 35% while improving quality and consistency, virtually eliminated missing or misplaced equipment issues, optimized staffing allocations, reducing overtime costs by 22%, and successfully managed a record number of events during our peak season.
+
+# PAR - Strings Music Festival - Vendor Management
+Problem: At Strings Music Festival, our vendor management and procurement processes were decentralized and inefficient, resulting in duplicate vendors, inconsistent pricing, and missed opportunities for volume discounts.
+
+Action: I implemented a strategic vendor management and procurement system, conducting a comprehensive audit of all vendors, negotiating improved terms with key suppliers, and creating standardized procurement procedures with appropriate approval workflows.
+
+Result: Reduced procurement costs by 18% through vendor consolidation and improved negotiation, decreased emergency orders by 75%, improved vendor performance and responsiveness, and enhanced budget forecasting accuracy.
+
+# PAR - USAID - International Operations
+Problem: As a Technical Trainer with USAID in Paraguay, I was tasked with supporting a critical rural development program that was facing significant operational challenges with multiple stakeholders with competing priorities.
+
+Action: I developed a streamlined operational framework that balanced stakeholder needs, created a unified reporting system, established clear communication protocols, and implemented a cultural bridge approach where I actively translated cultural contexts between international donors and local communities.
+
+Result: Program implementation timelines improved by 30%, stakeholder satisfaction increased across all groups, donor confidence was restored, and the operational framework I developed became a model for other USAID programs in the region.
+
+# PAR - USAID - Cross-Cultural Systems
+Problem: In my role with the Peace Corps in Paraguay, I encountered a significant disconnect between how U.S.-based program administrators designed operational systems and the realities faced by local communities.
+
+Action: I took initiative to redesign our operational approach, conducting extensive listening sessions with local farmers and community leaders, developing flexible operational frameworks, creating bilingual documentation systems, and advocating with senior leadership for systemic changes.
+
+Result: Program participation increased by 45%, reporting compliance improved from 60% to 95%, sustainability of initiatives dramatically improved with 80% of projects continuing after volunteer departure, and my approach was recognized by country leadership and incorporated into training.
+
+# Technical Background
+My technical foundation was strengthened through formal education at CodeCraft School of Technology, where I completed Full Stack Web Development training in 2016. This experience gave me hands-on expertise with MEAN/JS development, enabling me to build custom applications and understand the technical architecture behind operational systems. At BuildStrong Academy, I led the implementation of Zoho One as our unified CRM system, personally configuring custom modules, automated workflows, and reporting dashboards.
+
+# Financial Management Experience
+My experience with financial reporting extends beyond basic budgeting to include sophisticated financial management systems. I'm proficient in generating and analyzing key financial statements including Income Statements, Balance Sheets, and Cash Flow Statements. At BuildStrong Academy, I was responsible for managing a $765,000 grant, which required comprehensive financial reporting for funders and auditors while ensuring compliance with both federal and state regulations.
+
+# Leadership Philosophy
+I am a thoughtful, values-driven leader who blends operational strategy with cultural empathy—committed to building systems that serve both people and purpose. My leadership is grounded in several core values: Integrity & Respect, Equity & Inclusion, Community-Mindedness, Authenticity, Mission-Driven Leadership, and Operational Excellence with a Human Lens. I'm not just focused on systems and performance—I'm committed to people-first operations, consistently emphasizing culture-building, team development, and thoughtful onboarding/offboarding.
+
+# Training Approach
+I have considerable experience in training and developing team members, particularly in process improvements and operational procedures. I appreciate the diversity in learning styles and tailor my teaching methods accordingly. I've embraced innovative approaches to SOP creation, contributing to building intranet systems that house organizational SOPs. I utilize workflow intelligence platforms like Tango for creating step-by-step guides and tools like Loom to record video tutorials that walk team members through processes in real-time.
+
+# Project Management
+To manage multiple projects and deadlines effectively, I utilize a combination of project management software and organizational tools to maintain both granular and big-picture focus. I most often use Asana when collaborating with high-performing teams, allowing me to break down projects into tasks, assign responsibilities, and set deadlines. I also incorporate 'on-desk ergonomic' organizers, such as Fluidstance's slope desk whiteboard and flow cards, to manage my time and priorities.
