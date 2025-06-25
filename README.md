@@ -224,8 +224,41 @@ For issues or questions:
 
 ---
 
+## 🏢 Company-Specific Setup (NEW!)
+
+**Easily customize the teleprompter for different companies with one command:**
+
+```bash
+# Set up for a specific company and role
+python3 setup_company.py --company "REI" --role "Store Sales Specialist"
+python3 setup_company.py --company "Google" --role "Software Engineer"
+python3 setup_company.py --company "Tesla" --role "Manufacturing Engineer"
+```
+
+### What This Does:
+- ✅ Creates company-specific directory structure
+- ✅ Generates knowledge base template
+- ✅ Sets up ChromaDB collection for the company
+- ✅ Updates core.py with company-specific settings
+- ✅ Creates test scripts for verification
+- ✅ Provides Warp Agent setup prompts
+- ✅ Backs up previous configurations
+
+### 4-Step Company Workflow:
+1. **Setup:** `python3 setup_company.py --company "CompanyName" --role "Job Title"`
+2. **Edit:** Add company info to `CompanyName/companyname_knowledge_chunks.txt`
+3. **Load:** `python3 load_companyname_chunks_to_chroma.py`
+4. **Use:** `python3 interview_teleprompter.py` (now optimized for that company)
+
+📖 **[Read the full Company Setup Guide →](COMPANY_SETUP_GUIDE.md)**
+
+---
+
 ## 🎯 Recent Updates
 
+- ✅ **NEW: Automated company setup system** - One command to configure for any company
+- ✅ **NEW: Company-specific knowledge bases** - Tailored responses for each application
+- ✅ **NEW: Easy company switching** - Automatic backups and restoration
 - ✅ Simplified setup (removed MacWhisper/Loopback/Audio Hijack dependencies)
 - ✅ Manual text input trigger system
 - ✅ Enhanced security (`.env` file excluded from repository)
