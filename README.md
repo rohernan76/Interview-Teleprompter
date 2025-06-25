@@ -1,137 +1,248 @@
 # 🎤 Interview Teleprompter
 
-⚡ *Real-time AI-powered response assistant for live interviews using MacWhisper transcription + OpenAI-generated prompts displayed in a teleprompter interface.*
+**AI-powered real-time interview response assistant that generates contextual answers and displays them in a teleprompter-style window.**
+
+⚡ *Simplified version using manual text input trigger instead of complex audio transcription software.*
+
+---
+
+## 📍 System Information
+
+**Primary Development Location (Mac Mini):**
+```
+~/Desktop/Anthropic/Claude/INTERVIEW_TELEPROMPTER
+```
+
+**GitHub Repository:**
+```
+https://github.com/rohernan76/Interview-Teleprompter
+```
 
 ---
 
 ## 🧠 How It Works
 
-1. MacWhisper transcribes live audio and appends each new question to `log_.txt`
-2. Script detects the new question and uses OpenAI API (with reference context) to generate a relevant answer
-3. Answer is displayed in a floating teleprompter-style window (no audio output)
+1. **Start the program:** Run `python3 interview_teleprompter.py`
+2. **Input questions:** Open `whisper_output.txt` and type interview questions
+3. **Save to trigger:** Save the file - this triggers the AI response generation
+4. **View response:** AI-generated answer appears in the teleprompter window
+5. **Repeat:** Continue adding new questions to get more responses
+
+**Key Features:**
+- Real-time file monitoring for question detection
+- GPT-4 integration with contextual knowledge base
+- Duplicate question detection and filtering
+- Large-font teleprompter display with auto-sizing
+- Comprehensive session logging
 
 ---
 
-## 📅 Roadmap
+## 🚀 Quick Setup Guide
 
-- [x] Real-time question detection
-- [x] Teleprompter UI with Tkinter
-- [x] Codex CLI logger and usage tracker
-- [ ] GitHub Pages demo or docs deployment
-- [ ] Sync-friendly setup for iMac and Mac mini
-- [ ] `.app` launcher + icon
+### 1. Prerequisites
+- **Python 3.13+** (recommended)
+- **OpenAI API Key** (required)
+- **Git** (for syncing)
 
----
+### 2. Initial Setup (Mac Mini - Primary Development)
 
-## 📁 Folder Structure
-
-```
-Interview-Teleprompter/
-├── EXECUTE FROM HERE/
-│   └── run_teleprompter.command
-├── core.py                      # Core GPT logic and file monitoring
-├── gui.py                       # GUI components and display logic
-├── interview_teleprompter.py    # Entry point orchestrating core and GUI
-├── codex_usage.md
-├── .env                         # Not committed
-├── README.md
-├── requirements.txt
-```
-
----
-
-🔗 Part of: [ResumeRocket](https://github.com/rohernan76/resume-generator)
-
-# 🎤 Interview Teleprompter
-
-**AI-powered desktop assistant that listens to interview questions, generates real-time responses using GPT-4, and displays them in a teleprompter-style overlay.**
-
----
-
-## 📌 Overview
-
-Interview Teleprompter is built for job seekers, speakers, and anyone practicing live Q&A. It combines live transcription (via MacWhisper or Whisper), GPT-generated answers, and a desktop GUI that scrolls the response in large-font for discreet prompting.
-
----
-
-## ✨ Features
-
-- ✅ Real-time transcription via `whisper_output.txt`
-- ✅ Debounced, deduplicated question detection
-- ✅ GPT-4 integration with prep notes context
-- ✅ Big-font teleprompter overlay using Tkinter
-- ✅ Logs all activity to timestamped text files
-- ✅ AI-assisted development using Codex CLI
-
----
-
-## 🧠 How It Works
-
-1. Watch `whisper_output.txt` for new interviewer questions  
-2. Debounce and dedupe inputs  
-3. Send question + prep notes to GPT-4  
-4. Display response in fullscreen scrolling GUI  
-5. Log everything to `log_*.txt` and `codex_usage.md`
-
----
-
-## 📂 Repo Structure
-
-```
-Interview-Teleprompter/
-├── core.py                      # Core GPT logic and file monitoring
-├── gui.py                       # GUI components and display logic
-├── interview_teleprompter.py    # Entry point orchestrating core and GUI
-├── prep_notes.txt               # Your notes passed to GPT-4
-├── whisper_output.txt           # Live transcription output
-├── codex_usage.md               # Codex CLI prompt+response log
-├── backup_working/              # Legacy versions
-├── MacWhisper Pro/              # Optional transcription tool
-└── log_*.txt                    # Timestamped session logs
-```
-
----
-
-## 🚀 Getting Started
-
-> ⚠️ This project is under active development. For now, it’s tested locally on macOS via Python 3.13.
-
-### Prerequisites
-- Python 3.13+
-- MacWhisper installed (or Whisper CLI alternative)
-- OpenAI API key (set via env or `.zshrc`)
-- Codex CLI (optional)
-
-### Run the app
 ```bash
+# Navigate to the project directory
+cd ~/Desktop/Anthropic/Claude/INTERVIEW_TELEPROMPTER
+
+# Create .env file with your OpenAI API key
+echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+
+# Install dependencies
+pip3 install -r requirements.txt
+
+# Run the interview teleprompter
 python3 interview_teleprompter.py
 ```
 
-### Log Codex Prompts
+### 3. Setting Up Your OpenAI API Key
+
+**IMPORTANT:** The `.env` file is excluded from the repository for security. You must create it manually:
+
 ```bash
-~/Desktop/ResumeRocket/CodexTools/log_codex_interview.command "Prompt description here"
+# In the project root directory
+echo "OPENAI_API_KEY=your_actual_api_key_here" > .env
+```
+
+Replace `your_actual_api_key_here` with your actual OpenAI API key from https://platform.openai.com/api-keys
+
+---
+
+## 💻 MacBook Pro Sync Instructions
+
+### First Time Setup on MacBook Pro
+
+```bash
+# Clone the repository
+cd ~/Desktop
+git clone https://github.com/rohernan76/Interview-Teleprompter.git
+cd Interview-Teleprompter
+
+# Create .env file with your OpenAI API key
+echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+
+# Install dependencies
+pip3 install -r requirements.txt
+
+# Test the setup
+python3 interview_teleprompter.py
+```
+
+### Syncing Updates from Main Branch
+
+```bash
+# Navigate to your local repository
+cd ~/Desktop/Interview-Teleprompter  # or wherever you cloned it
+
+# Fetch and pull latest changes
+git fetch origin
+git pull origin main
+
+# Ensure .env file exists (create if missing)
+# echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+
+# Update dependencies if needed
+pip3 install -r requirements.txt
+
+# Test the updated version
+python3 interview_teleprompter.py
 ```
 
 ---
 
-## 🎯 MVP Goals
+## 🎯 Usage Instructions
 
-- [x] Functional prototype on MacBook Pro
-- [x] Modularize code (GUI, core, config)
-- [ ] Codex-enhanced refactors + docs
-- [ ] GitHub Pages demo + walkthrough
-- [ ] Test on iMac + mini for full setup sync
+### Step-by-Step Operation
+
+1. **Start the system:**
+   ```bash
+   cd ~/Desktop/Anthropic/Claude/INTERVIEW_TELEPROMPTER
+   python3 interview_teleprompter.py
+   ```
+
+2. **You'll see output like:**
+   ```
+   📡 File monitor is now watching 'whisper_output.txt'...
+   📱 Interview Teleprompter is running...
+   ```
+
+3. **Open the trigger file:**
+   - Open `whisper_output.txt` in any text editor
+   - Type your interview question (e.g., "Tell me about yourself")
+   - **Save the file** (Cmd+S)
+
+4. **Watch the magic:**
+   - The system detects the new question
+   - Generates an AI response using your knowledge base
+   - Displays the answer in a teleprompter window
+
+5. **Continue the interview:**
+   - Add new questions to `whisper_output.txt`
+   - Save after each question
+   - Get instant AI-generated responses
+
+### Tips for Best Results
+- Type questions clearly and completely
+- Save the file after each new question
+- The system automatically filters duplicate questions
+- All sessions are logged in the `Interview Logs/` folder
+
+---
+
+## 🤖 Warp Agent Setup Prompt
+
+**Copy and paste this into Warp Agent for instant setup:**
+
+```
+Help me set up the Interview Teleprompter system. The project is located at ~/Desktop/Anthropic/Claude/INTERVIEW_TELEPROMPTER. I need you to:
+
+1. Navigate to the project directory
+2. Check if .env file exists, if not help me create it with my OpenAI API key
+3. Install any missing Python dependencies from requirements.txt
+4. Start the interview teleprompter program
+5. Help me test it by adding a sample question to whisper_output.txt
+
+The system works by monitoring whisper_output.txt for new questions, then generating AI responses displayed in a teleprompter window.
+```
+
+---
+
+## 📂 Project Structure
+
+```
+INTERVIEW_TELEPROMPTER/
+├── .env                           # OpenAI API key (create manually)
+├── .gitignore                     # Git ignore rules
+├── interview_teleprompter.py      # Main entry point
+├── core.py                        # Core AI logic and file monitoring
+├── gui.py                         # Teleprompter GUI components
+├── whisper_output.txt             # Input file for questions
+├── requirements.txt               # Python dependencies
+├── knowledge_chunks.txt           # AI knowledge base
+├── prep_notes.txt                 # Additional context notes
+├── Interview Logs/                # Session logs directory
+│   └── log_YYYY-MM-DD_HH-MM-SS.txt
+├── chroma_db/                     # Vector database for AI context
+├── backup_working/                # Development backups
+├── REI/                          # REI-specific interview prep
+└── MacWhisper Pro/               # Legacy transcription tools
+```
+
+---
+
+## 🔧 Troubleshooting
+
+### Common Issues
+
+**"OpenAI API key not found"**
+- Ensure `.env` file exists in project root
+- Check that your API key is valid and has credits
+
+**"Permission denied" when running script**
+- Run: `chmod +x interview_teleprompter.py`
+
+**GUI window not appearing**
+- Check console for error messages
+- Ensure Python has accessibility permissions on macOS
+
+**Questions not being detected**
+- Make sure to **save** `whisper_output.txt` after adding questions
+- Check that the file is in the same directory as the script
+
+### Getting Help
+
+For issues or questions:
+1. Check the session logs in `Interview Logs/`
+2. Review console output for error messages
+3. Ensure all dependencies are installed
+4. Verify your OpenAI API key is working
+
+---
+
+## 🎯 Recent Updates
+
+- ✅ Simplified setup (removed MacWhisper/Loopback/Audio Hijack dependencies)
+- ✅ Manual text input trigger system
+- ✅ Enhanced security (`.env` file excluded from repository)
+- ✅ Improved cross-device sync instructions
+- ✅ Comprehensive documentation and setup guides
+- ✅ Warp Agent integration prompt
 
 ---
 
 ## 📜 License
 
-[To Be Added] – MIT or Apache 2.0 likely
+MIT License - see LICENSE file for details
 
 ---
 
 ## 🤝 Credits
 
 Created by [@rohernan76](https://github.com/rohernan76)  
-AI-assisted by Codex CLI (OpenAI)  
-Transcription powered by [MacWhisper](https://goodtech.ai/macwhisper)
+AI-powered by OpenAI GPT-4  
+Developed with assistance from Claude (Anthropic)
